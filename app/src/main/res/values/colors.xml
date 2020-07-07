@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">@color/app_color</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#F7F7F7</color>
+    <color name="gray_dark">#CCCCCC</color>
+    <color name="app_color">#00B0F0</color>
+    <color name="app_color_light">#CCEFFC</color>
+    <color name="facebook_color">#3b5998</color>
+    <color name="monsoon">#777777</color>
+    <color name="red">#FF0000</color>
+
+    <color name="green">#60b546</color>
+    <color name="light_red">#ec9188</color>
+    <color name="grey_bg_light">#fafafa</color>
+
+    <color name="green_light">#E4FFE0</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/app_color</item>
+        <item>@color/app_color</item>
+        <item>@color/app_color</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/app_color_light</item>
+        <item>@color/app_color_light</item>
+        <item>@color/app_color_light</item>
+    </array>
+</resources>
